@@ -11,14 +11,15 @@ The ambiguity of the day is a bit of a challange. I am realizing the not knowing
 
 ### _Past and Present_
 
-wereWell, this paragraph was going to be about how my next steps as a programer are a bit unknown. However, given that my computer just crashed I think my next steps might be that I need a new computer!!
+Well, this paragraph was going to be about how my next steps as a programer are a bit unknown. However, given that my computer just crashed I think my next steps might be that I need a new computer!!
 
-Prior to COVID-19 I worked in the event management industry. I managed the operations for large scale coperate conferance and C-level summints. We worked with all types of clients:
-* Google
-* AWS 
-* Amazon
-* Uber
-* Sales Force
+Prior to COVID-19 I worked in the event management industry at [Opus Agency](https://www.opusagency.com/). I managed the operations for large scale coperate conferance and C-level summints. We worked with all types of clients such as:
+
+* ![AWS image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmBQV0llVnk-Z3b27FaBW01iE8hcYKqG_FLg&usqp=CAU) 
+* ![Amazon image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmKTChM0BxIqQ7OFXn-SMgryeSBNHIZJJB3Q&usqp=CAU)
+* ![Uber](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJnNuudBsKUtDg4DZNoxVCXNZHzkrSY9__7w&usqp=CAU)
+* ![Sales Force](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5ziETyOWSIj-YnQGp1Q-O49Mbr-TQAmjvYQ&usqp=CAU)
+* ![google image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiGbYoBa4Vsij1-aroYcJULeqKv4_Ja0wbiA&usqp=CAU)
 
 Before we were furloughed I was working with the IT team to develop an Event App that would make the work we were did more time and cost efficcent as well as enviromentally concious. I was having a blast helping to leading the beta testing team, communicating with the developers and exploring the world of programing. When we were laid-off persuing code school seems to be the logical next step!
 
